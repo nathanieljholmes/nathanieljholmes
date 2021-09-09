@@ -1,7 +1,7 @@
 ### :star:Hello!:star:
 
 #### My name is Nathaniel Holmes!
-*I am a freelance developer who loves to create, not just code! I find that building strong connections with others really brings out the skills that matter the most! I'm an avid learner by the way,so feel free to share your wisdom and expertise!*
+*I am a freelance developer who loves to create, not just code! I find that building strong connections with others really brings out the skills that matter the most! I'm an avid learner by the way, so feel free to share your wisdom and expertise!*
 
 
 
