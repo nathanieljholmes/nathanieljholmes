@@ -7,7 +7,7 @@
 
 #### This is the status:
 - 🔭 I’m currently working on - *Freelance for MROSupply.com*
-- 🌱 I’m currently learning - *Nextjs, Firebase*
+- 🌱 I’m currently learning - *Dart, Flutter, Nextjs, and Firebase!*
 - 👯 I’m looking to collaborate on - *Rent-My-Time/frontend*
 - 💬 Ask me about - *Games, food, technology and nature!*
 - 📫 How to reach me: *nathanielholmesdevelopment@gmail.com*
