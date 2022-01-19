@@ -6,9 +6,9 @@
 
 
 #### This is the status:
-- 🔭 I’m currently working on - *Freelance for MROSupply.com*
-- 🌱 I’m currently learning - *Dart, Flutter, Nextjs, and Firebase!*
-- 👯 I’m looking to collaborate on - *Rent-My-Time/frontend*
+- 🔭 I’m currently working on - *Freelance development for ALK Asphalt LLC*
+- 🌱 I’m currently learning - *Azure DevOps, Dart, Flutter, and Firebase!*
+- 👯 I’m looking to collaborate on - *Serverless Frameworks!*
 - 💬 Ask me about - *Games, food, technology and nature!*
 - 📫 How to reach me: *nathanielholmesdevelopment@gmail.com*
 - 😄 Pronouns: *He/Him*
